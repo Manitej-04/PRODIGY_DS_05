@@ -8,8 +8,8 @@ This Power BI dashboard visualizes US traffic accident data, highlighting key pa
 - Accident severity trends over time
 - Geographic accident distribution across the US
 
-  ## Download Power BI Report
-📥 [Download the Power BI Dashboard (.pbix) file](https://drive.google.com/file/d/1ioCC_PR31LO-9-AEGTgCezdJjupPZu3L/view?usp=sharing)
+## 📥 Download Power BI Report
+👉 [Download the Power BI Dashboard (.pbix) file](https://drive.google.com/file/d/1ioCC_PR31LO-9-AEGTgCezdJjupPZu3L/view?usp=sharing)
 
 ## 🗺️ Dashboard Preview
 ![US Traffic Accident Dashboard](https://github.com/Manitej-04/PRODIGY_DS_05/blob/main/Task-5%20Preview.jpg)
